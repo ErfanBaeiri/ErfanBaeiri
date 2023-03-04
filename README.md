@@ -1,16 +1,23 @@
-<h1 align="center">In The Name Of GOD</h1>
+<h1 align="center">In the name of GOD</h1>
+<p align="center">
+<a href="https://github.com/ErfanBaeiri">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Erfan+Baeiri;Researcher+%7C+Bachelor's+Student+%7C+Software+Engineer;Back-End+%7CASP.NET+CORE+%7C+C+Sharp Developer"/>
+</a>
+<br/>
+ 
+---
+  
+<p align="center"> 
+ <a href="mailto:ErfanBaeiri@gmail.com" alt="Gmail">
+   <img src="https://img.shields.io/badge/-ErfanBaeiri@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" />
+ </a>
+</p>
+<br/>
 
-<!--
-**ErfanBaeiri/ErfanBaeiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻.NET Back-End Developer | Software Architect | DDD & Microservices Enthusiast.
+- 💬 Ask me about Clean Architecture, MicroServices, DDD, and .NET Core.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
