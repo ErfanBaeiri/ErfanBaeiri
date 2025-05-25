@@ -5,6 +5,7 @@
 
 🎯 ASP.NET Core Developer | Passionate about Microservices Architecture | Skilled in Building Secure APIs with JWT
 
+ 💡 I'm always open to learning, growing, and contributing to open-source projects 
 ---
 ## 🛠️ Skills
 
@@ -40,14 +41,7 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-## 📫 Contact Me
-<div align="center" >
-    <a href="mailto:ErfanBaeiri@gmail.com" alt="Gmail"> <img src="https://img.shields.io/badge/-ErfanBaeiri@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" />
-</div>
 
----
- I'm always open to learning, growing, and contributing to open-source projects 💡
 
 
 
